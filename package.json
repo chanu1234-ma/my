@@ -1,0 +1,9 @@
+{
+  "name": "Draculabot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.1",
+    "pino": "^8.11.0"
+  }
+}
